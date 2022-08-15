@@ -28,7 +28,7 @@ This means that the repository will be expected to contain all:
 WordPress Core, Plugins and Themes will be owned by root and the system php user will not be able to write to these files.
 In addition we will be enabling the `define('DISALLOW_FILE_MODS',true);` constant to disallow file edits.
 
-All updates will need to be done via Git.
+All updates will need to be done via Git...
 
 ### Deployment Scripts
 
